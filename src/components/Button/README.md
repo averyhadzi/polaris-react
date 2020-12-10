@@ -408,7 +408,9 @@ Use for actions that aren’t currently available. The surrounding interface sho
 Use when a button has been pressed and the associated action is in progress.
 
 ```jsx
-<Button loading>Save product</Button>
+<Button loading plain>
+  Save product
+</Button>
 ```
 
 ---
